@@ -16,8 +16,9 @@ The program uses the Sunrise/Sunset API, which can be found at https://sunrise-s
 
 First, set up a Python virtual environment by first running "python -m venv .venv" then running
 
-".venv\Scripts\activate" on Windows
-"source .venv/bin/activate" on Mac
+- ".venv\Scripts\activate" on Windows
+- "source .venv/bin/activate" on Mac
+
 Verify that the terminal prefix is (.venv) to demonstrate that you have successfully set up the virtual environment. Then, install the necessary packages listed in requirements.txt with "pip install -r requirements.txt".
 
 Finally, run the program using the command "python3 main.py"
